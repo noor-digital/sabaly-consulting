@@ -1,0 +1,19 @@
+# Système et éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
+*.log
+
+# Dépendances / sorties de build
+node_modules/
+dist/
+build/
+
+# Ne jamais versionner l'historique Git d'un autre dépôt
+.git/
