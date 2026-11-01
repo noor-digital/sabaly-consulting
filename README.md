@@ -4,8 +4,11 @@ Site vitrine statique en français pour présenter Sabaly Consulting, ses servic
 
 ## Aperçu
 
-Version de démonstration du site composée de pages HTML, de styles CSS personnalisés et de JavaScript côté navigateur.
+![Capture réelle du site Sabaly Consulting](https://raw.githubusercontent.com/noor-digital/noor-digital-portfolio/main/public/assets/sabaly-consulting.png)
 
+[Consulter la démo en ligne](https://sabaly-consulting-green.vercel.app())
+
+Version de démonstration du site composée de pages HTML, de styles CSS personnalisés et de JavaScript côté navigateur.
 ## Technologies
 
 - HTML5
