@@ -40,3 +40,13 @@ Le projet est statique et ne possède pas de backend. Le formulaire prépare un 
 ## Crédits et propriété
 
 Ce dépôt ne déclare aucune licence de réutilisation des contenus de marque, logos ou photographies. Obtenez l'autorisation du titulaire des droits avant de les redistribuer. Bootstrap est distribué sous licence MIT par ses auteurs et chargé depuis un CDN.
+
+
+## À propos de NOOR DIGITAL
+
+Ce dépôt est présenté dans le portfolio **NOOR DIGITAL** — *La lumière qui structure*.
+
+- **GitHub :** https://github.com/noor-digital
+- **Portfolio :** https://noor-digital.github.io/noor-digital-portfolio/
+
+> Le projet ayant été réalisé pour un client, sa présentation publique ne vaut pas autorisation de réutiliser ses contenus, logos ou visuels. Respectez les droits et les autorisations du propriétaire.
